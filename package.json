@@ -1,6 +1,6 @@
 {
   "name": "adonisjs-sse",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An addon/plugin package to provide server-sent events functionality for AdonisJS 4.0+",
   "main": "index.js",
   "files": [
@@ -41,8 +41,8 @@
     ]
   },
   "dependencies": {
-    "@adonisjs/generic-exceptions": "^2.0.1",
-    "server-events-nodejs": "^0.2.1",
+    "@adonisjs/generic-exceptions": "2.0.1",
+    "server-events-nodejs": "0.2.2",
     "uuid": "^3.3.0"
   },
   "devDependencies": {
